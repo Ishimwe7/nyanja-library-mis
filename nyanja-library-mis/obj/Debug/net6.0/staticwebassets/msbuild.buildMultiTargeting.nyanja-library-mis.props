@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nyanja-library-mis.props" />
+</Project>
